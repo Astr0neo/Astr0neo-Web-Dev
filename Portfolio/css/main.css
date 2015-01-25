@@ -17,7 +17,8 @@ a {
 header {
 	margin-top: 10px;
 	background: #6ab47b;
-	border-color: #599a68
+	border-color: #599a68;
+	padding:10px auto;
 }
 
 h1, h2 {
