@@ -10,8 +10,9 @@ a {
 }
 
 #logo {
-	text-align: center;
+	text-align: left;
 	margin: 0;
+	max-width: 90vw;
 }
 
 header {
