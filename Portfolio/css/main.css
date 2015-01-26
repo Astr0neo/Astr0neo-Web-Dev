@@ -11,12 +11,13 @@ a {
 
 #logo {
 	text-align: left;
-	margin: 0;
-	max-width: 90vw;
+	margin: 0 auto;
+	max-width: 940px;
 }
 
 header {
-	margin-top: 10px;
+	max-width: 940px;
+	margin: 10 auto;
 	background: #000000;
 	border-color: #599a68;
 	padding:10px auto;
