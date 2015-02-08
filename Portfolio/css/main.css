@@ -59,3 +59,17 @@ footer {
 img {
 	max-width: 100%;
 }
+
+#wrapper {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#wrapper li {
+	float: left;
+	width: 45%;
+	margin: 2.5%;
+	background-color: black;
+	color: white;
+}
