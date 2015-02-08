@@ -16,7 +16,7 @@ a {
 }
 
 header {
-	max-width: 940px;
+	max-width: 100%;
 	margin: 10 auto;
 	background: #000000;
 	border-color: #599a68;
@@ -54,6 +54,7 @@ footer {
 	padding-top: 50px;
 	color: #ccc;
 	background-color: green;
+	max-width: 100%;
 }
 
 img {
