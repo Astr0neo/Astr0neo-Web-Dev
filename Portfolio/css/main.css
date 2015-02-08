@@ -30,6 +30,9 @@ h1, h2 {
 
 nav {
 	background: #26E404;
+	text-align: center;
+	padding: 10px, 0;
+	margin: 20px 0 0;
 }
 
 nav a, nav a:visited {
@@ -43,4 +46,11 @@ nav a.selected, nav a:hover {
 body {
 	background: #000000;
 	color: #999;
+}
+
+footer {
+	font-size: 0.75em;
+	text-align: center;
+	padding-top: 50px
+	color: #ccc;
 }
