@@ -46,6 +46,7 @@ nav a.selected, nav a:hover {
 body {
 	background: #000000;
 	color: #999;
+
 }
 
 footer {
@@ -53,7 +54,6 @@ footer {
 	text-align: center;
 	padding-top: 50px;
 	color: #ccc;
-	background-color: green;
 	max-width: 100%;
 }
 
